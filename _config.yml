@@ -58,8 +58,8 @@ plugins:
 
 author:
   name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  avatar : "/assets/images/SKAO-RCN-LOGO_HORIZ_GBR_cmyk.pdf"
+  bio    : "The UK SKA Regional Centre Project"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
