@@ -13,7 +13,7 @@ header:
 excerpt: "Working to enable researchers to harness SKA data and explore the beginning of the universe in the UK and beyond "
 intro: 
   - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
-  ---
+ ---
 feature_row:
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
     alt: "placeholder image 1"
